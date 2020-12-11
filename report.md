@@ -156,7 +156,7 @@ for (i in strip_both) {
 grid.draw(g)
 ```
 
-![](/home/spiros/Data/Documents/ODU/University%20Courses/3rd%20Semester/CS625%20-%20Data%20Visualization/Assignments/hw8-refine-spyridon97/report_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](./report_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 ### Explanation of how the final chart answer the question I asked in HW7
 
